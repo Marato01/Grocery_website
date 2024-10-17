@@ -9,8 +9,8 @@
 </head>
 
 <body>
+    
     <?php include('navbar.php'); ?>
-
 
     <!-- Text -->
 
@@ -51,10 +51,6 @@
                 </div>
             </li>
 
-
-
-
-
             <!-- Total -->
             <li class="py-3 sm:py-4">
                 <div class="flex items-center space-x-20 rtl:space-x-reverse w-full">
@@ -73,9 +69,8 @@
         </ul>
     </div>
 
-
-
     <?php include 'footer.php'; ?>
+
 
 </body>
 
